@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const MyHomePage(title: '<Group>: <Name>\'s last Flutter App'),
+      home: const MyHomePage(title: 'KN-32: Mykhailo Mosiichuk last Flutter App'),
     );
   }
 }
